@@ -1,0 +1,150 @@
+# PYTHON _TOC
+
+## Built-In
+
+[Functions - Documentation](https://docs.python.org/3/library/constants.html) - [[REFERENCE/Built In Methods/Built In Functions]]: notes
+
+[Constants - Documentation](https://docs.python.org/3/library/constants.html)
+
+[Data Types - Doucmentaiton](https://docs.python.org/3/library/stdtypes.html)
+
+[Exceptions - Documenation](https://docs.python.org/3/library/stdtypes.html)
+
+[Text Processing - Documentation](https://docs.python.org/3/library/text.html)
+
+# FUNCTIONS
+
+[Python Functions - GeeksforGeeks](https://www.geeksforgeeks.org/python-functions/?ref=lbp)
+
+*args and **kwargs in Python
+
+When to use yield instead of return in Python?
+
+Generators in Python
+
+Python lambda
+
+Global and Local Variables in Python
+
+Global keyword in Python
+
+First Class functions in Python
+
+Python Closures
+
+Decorators in Python
+
+Decorators with parameters in Python
+
+Memoization using decorators in Python
+
+Modules and Packages
+
+   [[Python Basics/Packages and Modules/Modules vs Packages]]
+
+   Links
+
+[6. Modules — Python 3.10.2 documentation](https://docs.python.org/3/tutorial/modules.html)
+
+### Regex for Python
+
+   \#doc
+
+   [[REFERENCE/Regex for Python]]
+
+   \#snippets
+
+   [[PYTHON SCRIPTS/Regex Basic]]
+
+   \#links
+
+   [Regex - Documenation](https://docs.python.org/3/library/re.html)
+
+   [Python Regex Generator](https://pythex.org/)
+
+   [PyPI - Regex Generator Module](https://pypi.org/project/regex-generator-lib/)
+
+[Python Examples | Programiz](https://www.programiz.com/python-programming/examples)
+
+## Syntax
+
+[[Python Basics/Syntax#^FD36BA5E-1542-431D-9026-6B49A191BBFA]]
+
+## Classes
+
+[[TAGS_TOC/Classes TOC]]
+
+[[Classes - Decorators/Classes - Overview]]
+
+   [[Classes - Decorators/Classes - Constructors and Destructors]]
+
+   [[Classes - Decorators/Classes - Properties]]
+
+[[Classes - Decorators/Classes - Different Input Parameters]]
+
+## Data Structures and Functions
+
+[[TAGS_TOC/Data and Func TOC]]
+
+   - [[Data Structure and Design Patterns/Lists]]
+      - [[Data Structure and Design Patterns/Lists#List Comprehension]]
+      - [[PYTHON SCRIPTS/List Comprehension Snippets]]
+
+## Advanced Functions Concepts
+
+Lambda Function
+
+   [[Python Basics/Syntax#^D10A8B2F-BE15-460F-AA66-A5D51F723D0D]]
+
+   [[Python Basics/Functions/Functions - Advanced#^8E43D51E-3812-4E43-9A27-D6B9667D2413]]
+
+   [[PYTHON SCRIPTS/List Comprehension Snippets#^A2F55FAF-F7B8-410E-9BA3-1183CE15B663]]
+
+   [[Python Basics/Functions/Functions - Advanced#^524CC823-DE86-4650-A810-ACD9597C26BF]]
+
+   [[Python Basics/Functions/Functions - Advanced#^FF3F0875-7283-4F5A-B4CE-182BFC5FCE9E]]
+
+   [[Python Basics/Functions/Functions - Advanced#^7CF8123A-60C6-4898-A8BD-02705B9343FD]]
+
+   [[Python Basics/Functions/Functions - Advanced#^817CBC4D-BE4E-45A4-A424-60DC1AEF23CA]]
+
+[[TAGS_TOC/Generators TOC]]
+
+[[Data Structure and Design Patterns/Generators]]
+
+   \-
+
+## Flow Control
+
+## TESTING
+
+**PYTEST**
+
+   Reference #reference #pytest
+
+   Snippets #snippets #pytest
+
+   [[Links/PYTHON LINKS#PYTEST LINKS]]
+
+## DATABASES
+
+PYTHON SQL CALLS - /Users/jb_mini/Projects/python/database/sqlite/sqlite_pandas.py
+
+SQLAlchemy Basics - /Users/jb_mini/Projects/python/database/sqlalchemy_00.py
+
+CRUD
+
+Create, Read, Update, Delete
+
+ETL
+
+Extract, Transform, Load
+
+## MODULES
+
+[[Modules/Argparse]]
+
+PYTHON BASIC LEARNING TRACK
+
+[Python Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+

@@ -1,0 +1,67 @@
+# External Files with Python
+
+[[PYTHON SCRIPTS/External File Snippets]]: Snippets
+
+Basic:
+
+open(file_name, mode)
+
+Advanced:
+
+open (file, mode='r', buffering=-1, encoding=None, errors=None, newline=None,
+
+closefd=True, opener=None)
+
+| mode |                                        |
+| ---- | -------------------------------------- |
+| r    | read only - default                    |
+| w    | write - on/over file                   |
+| a    | append - to existing files             |
+| x    | create - a specific fiel               |
+| b    | binary - handle in binary mode: images |
+| t    | text - handle file in text mode        |
+| rb   | read - binary format                   |
+| r+   | read and write - text format           |
+|      |                                        |
+
+```python
+created_file = open("geeksforgeeks.txt","x")
+
+# Check the file
+print(open("geeksforgeeks.txt","r").read() == False)
+
+
+# ----------
+my_file = open("geeksforgeeks.txt", "w")
+my_file.write("Geeksforgeeks is best for DSA")
+my_file.close()
+
+#let's read the contents of the file now
+my_file = open("geeksforgeeks.txt","r")
+print(my_file.read())
+
+
+# ----------
+
+my_file = open("geeksforgeeks.txt","a")
+my_file.write("..>>Visit geeksforgeeks.org for more!!<<..")
+my_file.close()
+
+# reading the file
+my_file = open("geeksforgeeks.txt","r")
+print(my_file.read())
+```
+
+When you use open independent - you have to close
+
+use With to avoid closing
+
+```python
+f = open('output.txt')
+print(f)
+print(f.__dict__)
+f.read()
+f.close()
+f.closed
+```
+
