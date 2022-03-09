@@ -2,7 +2,9 @@
 
 ## Built-In
 
-[Functions - Documentation](https://docs.python.org/3/library/constants.html) - [[REFERENCE/Built%20In%20Methods/Built%20In%20Functions]]: notes
+[Functions - Documentation](https://docs.python.org/3/library/constants.html) - 
+
+[[REFERENCE/Built%20In%20Methods/Built%20In%20Functions]]: notes
 
 [Constants - Documentation](https://docs.python.org/3/library/constants.html)
 
