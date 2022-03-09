@@ -40,12 +40,20 @@ Decorators with parameters in Python
 
 Memoization using decorators in Python
 
-Modules and Packages
-   [[Python Basic/Packages and Modules/Modules vs Packages]]
-STATUS: vscode-no / github- 
-   [[Python%20Basics/Packages%20and%20Modules/Modules%20vs%20Packages]]
+Modules and Packages  
+[[Python Basic/Packages and Modules/Modules vs Packages]]
+STATUS: vscode-no / github - 
+[[Python%20Basics/Packages%20and%20Modules/Modules%20vs%20Packages]]  
 STATUS: vscode-yes / github
-   Links
+
+[Relative Links Test](Python%20Basics/Packages%20and%20Modules/Modules%20vs%20Packages.md)
+
+[Relative Links Test 2 - pasted from VSC directory](Python Basics/Packages and Modules/Modules vs Packages.md)
+
+[Relative links edited from VSC Links Test 3](Python_Ref/Python_Journal/Python Basics/Packages and Modules/Modules vs Packages.md)
+   
+[Relative links from %20] (Python%20Basics/Packages%20and%20Modules/Modules%20vs%20Packages)
+Links
 
 [6. Modules — Python 3.10.2 documentation](https://docs.python.org/3/tutorial/modules.html)
 
